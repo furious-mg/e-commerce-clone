@@ -31,17 +31,20 @@
 }
 
 .cloth-image{
-    margin: 10px 40px 10px 40px;
+    /* margin: 10px 40px 10px 40px; */
     width: 160px;
     height: 160px;
 }
 
+.heading2dis{
+    padding: 0px 20px;
+}
 .cloth-image:hover{
     transform: scale(1.1);
 }
 
 .cloth-images{
-    margin: 10px 40px 10px 40px;
+    /* margin: 10px 40px 10px 40px; */
     width: 160px;
     height: 290px;
 }
