@@ -78,12 +78,12 @@ nav ul li a:hover{
 
 .slider img:hover{
     transform: scale(1.01);
-    opacity: 0.7;
+    opacity: 0.9;
     cursor: pointer;
 }
 
 .card{
-    display: flex;
+    /* display: grid; */
     max-width: 90vw;
     margin: 10px auto;
     background-color: white;
@@ -96,7 +96,9 @@ nav ul li a:hover{
     display: inline-flex;
     justify-content: center;
     flex-direction: column;
-    margin: 20px 0px;
+    /* margin: 20px 0px; */
+    max-width: 160px;
+    margin: 10px 40px;
 }
 
 .container{
